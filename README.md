@@ -61,32 +61,53 @@ Currently, I'm focused on expanding my knowledge in **GraphQL** and **Docker** w
 
 ---
 
+
 # 📊 GITHUB STATISTICS & ANALYSIS:
 
 ### 📈 GitHub Contributions:
 
-\<p align="center">   \<img width="100%" src="[https://github-readme-activity-graph.vercel.app/graph?username=junaiedshakil&theme=tokyo-night&hide_border=true](https://github-readme-activity-graph.vercel.app/graph?username=junaiedshakil\&theme=tokyo-night\&hide_border=true)" /> \</p>
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=junaiedshakil&theme=tokyo-night&hide_border=true" />
+</p>
 
 ### 📊 GitHub Statistics:
 
-\<p align="center">   \<img width="49%" src="[https://github-readme-stats.vercel.app/api?username=junaiedshakil&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api?username=junaiedshakil\&show_icons=true\&theme=tokyonight\&hide_border=true)" />   \<img width="49%" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=junaiedshakil&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=junaiedshakil\&layout=compact\&theme=tokyonight\&hide_border=true)" /> \</p>
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=junaiedshakil&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junaiedshakil&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ### 🔥 Repository Stats & Streak:
 
-\<p align="center">   \<img width="70%" src="[https://streak-stats.demolab.com?user=junaiedshakil&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=junaiedshakil\&theme=tokyonight\&hide_border=true)" /> \</p>
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=junaiedshakil&theme=tokyonight&hide_border=true" />
+</p>
 
-\<p align="center">   \<img src="[https://github-profile-trophy.vercel.app/?username=junaiedshakil&theme=tokyonight&no-frame=true&row=1&column=6](https://github-profile-trophy.vercel.app/?username=junaiedshakil\&theme=tokyonight\&no-frame=true\&row=1\&column=6)" /> \</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=junaiedshakil&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
 
 ---
 
 ## 💡 RANDOM DEV QUOTE:
 
-\<p align="center">   \<img src="[https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)" /> \</p>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
 
 ---
 
 ## 📌 PINNED PROJECTS:
 
-\<p align="center">   \<a href="[https://github.com/junaiedshakil/my-learning-platfrom-app](https://github.com/junaiedshakil/my-learning-platfrom-app)">     \<img width="49%" src="[https://github-readme-stats.vercel.app/api/pin/?username=junaiedshakil&repo=my-learning-platfrom-app&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/pin/?username=junaiedshakil\&repo=my-learning-platfrom-app\&theme=tokyonight\&hide_border=true)" />   \</a>   \<a href="[https://github.com/junaiedshakil/learning-platfrom-server](https://github.com/junaiedshakil/learning-platfrom-server)">     \<img width="49%" src="[https://github-readme-stats.vercel.app/api/pin/?username=junaiedshakil&repo=learning-platfrom-server&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/pin/?username=junaiedshakil\&repo=learning-platfrom-server\&theme=tokyonight\&hide_border=true)" />   \</a> \</p>
+<p align="center">
+  <a href="https://github.com/junaiedshakil/my-learning-platfrom-app">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=junaiedshakil&repo=my-learning-platfrom-app&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/junaiedshakil/learning-platfrom-server">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=junaiedshakil&repo=learning-platfrom-server&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
 
-\<p align="center">   ⭐ Thanks for visiting my GitHub profile! \</p>
+<p align="center">
+  ⭐ Thanks for visiting my GitHub profile!
+</p>
