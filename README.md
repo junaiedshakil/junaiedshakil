@@ -1,5 +1,5 @@
 # Hi 👋, I'm JUNAIED HASAN  
-### 🔭 I build things with JavaScript, React, and Node.js
+### 🔭 Software Engineering Student | Aspiring Full-Stack Developer | Backend & Data Analytics Enthusiast
 
 ---
 
