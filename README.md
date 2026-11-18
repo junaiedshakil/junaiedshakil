@@ -64,11 +64,11 @@ Currently, I'm focused on expanding my knowledge in **GraphQL** and **Docker** w
 
 # 📊 GITHUB STATISTICS & ANALYSIS:
 
+
 ### 📈 GitHub Contributions:
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=junaiedshakil&theme=tokyo-night&hide_border=true" />
-</p>
+![GitHub Contribution Calendar](https://ghchart.rshah.org/junaiedshakil)
+
 
 ### 📊 GitHub Statistics:
 
