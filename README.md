@@ -89,8 +89,4 @@ Currently, I'm focused on expanding my knowledge in **GraphQL** and **Docker** w
 
 \<p align="center">   \<a href="[https://github.com/junaiedshakil/my-learning-platfrom-app](https://github.com/junaiedshakil/my-learning-platfrom-app)">     \<img width="49%" src="[https://github-readme-stats.vercel.app/api/pin/?username=junaiedshakil&repo=my-learning-platfrom-app&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/pin/?username=junaiedshakil\&repo=my-learning-platfrom-app\&theme=tokyonight\&hide_border=true)" />   \</a>   \<a href="[https://github.com/junaiedshakil/learning-platfrom-server](https://github.com/junaiedshakil/learning-platfrom-server)">     \<img width="49%" src="[https://github-readme-stats.vercel.app/api/pin/?username=junaiedshakil&repo=learning-platfrom-server&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/pin/?username=junaiedshakil\&repo=learning-platfrom-server\&theme=tokyonight\&hide_border=true)" />   \</a> \</p>
 
-\<p align="center">   \<a href="[https://github.com/junaiedshakil?tab=repositories](https://github.com/junaiedshakil?tab=repositories)">     \<img src="[https://img.shields.io/badge/Explore%20More%20Projects-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/Explore%20More%20Projects-181717?style=for-the-badge\&logo=github\&logoColor=white)" />   \</a> \</p>
-
----
-
 \<p align="center">   ⭐ Thanks for visiting my GitHub profile! \</p>
