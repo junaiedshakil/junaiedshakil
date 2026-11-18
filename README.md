@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" width="100%" alt="Junaied Shakil GitHub Banner">
+  <img src="./MY_BANNER.png" width="100%" alt="Junaied Shakil GitHub Banner">
 </p>
 # Hi 👋, I'm JUNAIED HASAN  
 ### 🔭 Software Engineering Student | Aspiring Full-Stack Developer | Backend & Data Analytics Enthusiast
