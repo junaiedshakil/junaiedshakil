@@ -65,9 +65,17 @@ Currently, I'm focused on expanding my knowledge in **GraphQL** and **Docker** w
 # 📊 GITHUB STATISTICS & ANALYSIS:
 
 
-### 📈 GitHub Contributions:
 
-![GitHub Contribution Calendar](https://ghchart.rshah.org/junaiedshakil)
+## 📈 GitHub Contributions
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/00C853/junaiedshakil" alt="GitHub Contribution Graph" width="100%" />
+</p>
+
+<p align="center">
+  <b>💚 Every contribution counts — keep building, keep growing!</b>
+</p>
+
 
 
 ### 📊 GitHub Statistics:
