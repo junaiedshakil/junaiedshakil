@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./MY_BANNER.png" width="100%" alt="Junaied Shakil GitHub Banner">
+  <img src="./Neon Full Stack Developer Banner.png" width="100%" alt="Junaied Shakil GitHub Banner">
 </p>
 # Hi 👋, I'm JUNAIED HASAN  
 
